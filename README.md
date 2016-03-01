@@ -12,7 +12,7 @@ Alexa will respond with the age of your baby and a helpful blurb that describes 
 
 If you want to run this on your own, you'll need a few things:
 
-1. A publically accessible server capable of running this Node project.
+1. A publicly accessible server capable of running this Node project.
 2. An SSL certificate (this is an Amazon requirement for running API endpoints accessible via Alexa)
 3. An Amazon developer account.
 
