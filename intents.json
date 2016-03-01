@@ -1,0 +1,22 @@
+{
+    "intents": [
+        {
+            "intent": "GetBabyInfo",
+            "slots": [
+                {
+                    "name": "babyName",
+                    "type": "AMAZON.US_FIRST_NAME"
+                }
+            ]
+        },
+        {
+            "intent": "GetAge",
+            "slots": [
+                {
+                    "name": "babyName",
+                    "type": "AMAZON.US_FIRST_NAME"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+GetBabyInfo about {babyName}
+GetBabyInfo about {babyName} this week
+GetBabyInfo tell me about {babyName}
+GetBabyInfo tell me information about my baby this week
+GetBabyInfo tell me info about my baby
+GetAge tell me how old {babyName} is
+GetAge {babyName} age
+GetAge how old is {babyName}
+GetAge how old {babyName} is
